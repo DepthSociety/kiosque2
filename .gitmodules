@@ -3,4 +3,4 @@
 	url = https://github.com/aerohub/hugrid.git
 [submodule "themes/hargo"]
 	path = themes/hargo
-	url = https://github.com/themefisher/hargo-hugo.git
+	url = https://github.com/gethugothemes/hargo-hugo.git
