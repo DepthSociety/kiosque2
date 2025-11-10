@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://thekiosque.org/"
+baseURL = "https://DepthSociety.github.io/kiosque2/"
 languageCode = "vi"
 title = "The Kiosque"
 theme = "hargo-hugo"
